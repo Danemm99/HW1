@@ -1,2 +1,2 @@
-# HW1
+# Home-work 1
 Danyil Zlobin, KI-11
