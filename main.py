@@ -60,6 +60,5 @@ if __name__ == "__main__":
     print(f"Approximation of π using a single thread: {pi_single_thread}")
     print(f"Time taken by a single thread: {single_thread_time} seconds\n")
 
-
     print(f"Approximation of π using {num_threads} threads: {pi_multi_thread}")
     print(f"Time taken by {num_threads} threads: {multi_thread_time} seconds")
